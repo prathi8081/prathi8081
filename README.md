@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> 
 <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="20" height="20"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="pandas" width="20" height="20"/>
+<img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/>
 </p>
 
 
@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/prathibha-t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prathibha-t" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/prathibha-t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prathibha-t" height="25" width="25" /></a>
 </p>
