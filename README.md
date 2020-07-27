@@ -14,18 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello there!! I'm Prathibha</h1>
+<h1 align="center">Hello there👋 !! I'm Prathibha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathi8081" alt="prathi8081" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/prathi8081](https://github.com/prathi8081)
 
 <p align="left">
-<img src="https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="20" height="20"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> 
-<img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="20" height="20"/>
-<img src="https://konpa.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="c" width="20" height="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="20" height="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="java" width="20" height="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="20" height="20"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="20" height="20"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="20" height="20"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pandas.svg" alt="pandas" width="20" height="20"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" alt="jupyter" width="20" height="20"/>
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="jupyter" width="20" height="20"/>
 </p>
 
 
