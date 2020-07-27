@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/c.svg" alt="c" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg" alt="java" width="20" height="20"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="20" height="20"/> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="20" height="20"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="20" height="20"/> 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="20" height="20"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="bootstrap" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pandas.svg" alt="pandas" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" alt="jupyter" width="20" height="20"/>
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg" alt="jupyter" width="20" height="20"/>
 </p>
 
 
@@ -38,4 +38,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://linkedin.com/in/prathibha-t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prathibha-t" height="25" width="25" /></a>
+ 
+
+<a href="https://www.hackerrank.com/tjprathibha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="tjprathibha" height="25" width="25" /></a>
+
 </p>
