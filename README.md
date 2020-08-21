@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathi8081&layout=compact&hide=html&theme=radical" alt="prathi8081" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathi8081&theme=radical" alt="prathi8081" />
 </p>
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=prathi8081&show_icons=true&theme=radical" alt="prathi8081" /> 
