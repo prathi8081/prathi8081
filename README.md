@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello there👋 !! I'm Prathibha</h1>
+<h1 align="center">Hi👋 , I'm Prathibha</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathi8081" alt="prathi8081" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/prathi8081](https://github.com/prathi8081)
@@ -33,7 +33,10 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=prathi8081&show_icons=true" alt="prathi8081" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathi8081&layout=compact&hide=html&theme=radical" alt="prathi8081" />
+</p>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=prathi8081&show_icons=true&theme=radical" alt="prathi8081" /> 
 </p>
 
 <p align="center">
