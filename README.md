@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jupyter.svg" alt="jupyter" width="20" height="20"/>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pandas.svg" alt="pandas" width="20" height="20"/>
 </p>
-
+<!--
 <br>
 <p align="center"> 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathi8081&layout=compact&theme=radical" alt="prathi8081" />
-</p><br>
+</p><br>-->
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=prathi8081&show_icons=true&theme=radical" alt="prathi8081" /> 
 </p>
